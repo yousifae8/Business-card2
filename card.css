@@ -1,0 +1,28 @@
+body{
+  margin: 20px;
+  font-family: verdana;
+}
+.joe{
+  width: 150px;
+  border-radius: 2px;
+}
+.card{
+  display: flex;
+  justify-content: space-around;
+ /* border: 3px dotted blue;*/
+  padding: 20px;
+  background: lightblue;
+  width: 400px;
+  margin: 0 auto;
+  border-bottom: 4px solid purple;
+  
+}
+/*.dott {
+  border: 1px dotted blue;
+  
+}*/
+.dit{
+  
+  padding: 3px;
+  text-align: center;
+}
